@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Signup Now for January 2027 on Germantown Ski and Board Club</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Signup Now for January 2027 on Germantown Ski and Board Club</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 04 Sep 2026 12:24:42 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Second Post</title>
+				<link>http://localhost:1313/posts/my-second-post/</link>
+				<pubDate>Fri, 04 Sep 2026 12:24:42 -0400</pubDate>
+				<guid>http://localhost:1313/posts/my-second-post/</guid>
+				<description>&lt;p&gt;Signup form is &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdF3WMHwv4V6LKWjWZ2zL-oJBO6Ym0jNita-h0QC7yshgCY7Q/viewform?usp=header&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My First Post</title>
+				<link>http://localhost:1313/posts/my-first-post/</link>
+				<pubDate>Fri, 04 Sep 2026 12:17:37 -0400</pubDate>
+				<guid>http://localhost:1313/posts/my-first-post/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
