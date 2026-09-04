@@ -2,7 +2,7 @@
 date = '2026-09-04T12:17:37-04:00'
 draft = true
 title = 'My First Post'
-images = ['images/club-photo.jpg']
+images = ['/club-photo.jpg']
 +++
 ## Introduction
 
