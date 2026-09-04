@@ -38,4 +38,4 @@ jobs:
           TARGET_REPO: emossman/ski-and-board-club
           TARGET_BRANCH: main
           TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: '-t ananke'
+          HUGO_ARGS: '-tananke'
