@@ -1,8 +1,3 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Germantown Ski and Board Club'
-theme = 'ananke'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

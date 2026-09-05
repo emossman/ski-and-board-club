@@ -1,6 +1,6 @@
 +++
 date = '2026-09-04T12:17:37-04:00'
-draft = true
+draft = false
 title = 'My First Post'
 images = ['/club-photo.jpg']
 +++

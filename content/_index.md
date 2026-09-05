@@ -4,4 +4,4 @@ draft = true
 featured_image = '/club-photo.jpg'
 +++
 # Hello
-See pages below for signup information
+See pages below for signup informati
