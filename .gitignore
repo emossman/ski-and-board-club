@@ -1,1 +1,16 @@
-public/
+# Hugo
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Backup Files
+*.bak
+*.old
