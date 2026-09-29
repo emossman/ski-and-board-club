@@ -1,6 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://emossman.github.io/ski-and-board-club/'
 locale = 'en-us'
 title = 'Germantown Ski and Board Club'
+enableRobotsTXT = true
+summaryLength = 30
+
+[pagination]
+pagerSize = 10
 
 [caches]
   [caches.images]
